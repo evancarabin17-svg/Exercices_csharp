@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ALGO2_EXO10/1.0.0": {
+        "runtime": {
+          "ALGO2_EXO10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ALGO2_EXO10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ALGO2_EXO10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ALGO2_EXO10.AssemblyInfoInputs.cache
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ALGO2_EXO10.AssemblyInfo.cs
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ALGO2_EXO10.csproj.CoreCompileInputs.cache
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ALGO2_EXO10.sourcelink.json
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\bin\Debug\net10.0\ALGO2_EXO10.exe
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\bin\Debug\net10.0\ALGO2_EXO10.deps.json
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\bin\Debug\net10.0\ALGO2_EXO10.runtimeconfig.json
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\bin\Debug\net10.0\ALGO2_EXO10.dll
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\bin\Debug\net10.0\ALGO2_EXO10.pdb
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ALGO2_EXO10.dll
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\refint\ALGO2_EXO10.dll
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ALGO2_EXO10.pdb
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ALGO2_EXO10.genruntimeconfig.cache
+C:\Users\e.carabin\Documents\ALGOPAPIERCSHARPS_CARABIN_MOUCHOT_Evan\ALGO2_EXO10\obj\Debug\net10.0\ref\ALGO2_EXO10.dll
